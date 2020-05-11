@@ -1,0 +1,10 @@
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\bin\Debug\netcoreapp2.0\WorkingWithStruts.deps.json
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\bin\Debug\netcoreapp2.0\WorkingWithStruts.runtimeconfig.json
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\bin\Debug\netcoreapp2.0\WorkingWithStruts.runtimeconfig.dev.json
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\bin\Debug\netcoreapp2.0\WorkingWithStruts.dll
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\bin\Debug\netcoreapp2.0\WorkingWithStruts.pdb
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\obj\Debug\netcoreapp2.0\WorkingWithStruts.csproj.CoreCompileInputs.cache
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\obj\Debug\netcoreapp2.0\WorkingWithStruts.AssemblyInfoInputs.cache
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\obj\Debug\netcoreapp2.0\WorkingWithStruts.AssemblyInfo.cs
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\obj\Debug\netcoreapp2.0\WorkingWithStruts.dll
+C:\projectDevVm\cSharpProjects\ClassVsStrut\WorkingWithStruts\WorkingWithStruts\obj\Debug\netcoreapp2.0\WorkingWithStruts.pdb

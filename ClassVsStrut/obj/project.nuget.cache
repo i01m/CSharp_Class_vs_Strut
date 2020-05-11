@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dazzq5FWZnzbJfjHrAaeotks1gcPvbEwere3q/4JKOivM3+jDxhz519aJrmr4sXM3XzGPKWOjhpj7NQ3ENdBJg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\DEVELOPMENT_VM\\cSharpProjects\\ClassVsStrut\\ClassVsStrut\\ClassVsStrut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
